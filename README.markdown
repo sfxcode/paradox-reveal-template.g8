@@ -1,4 +1,4 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] Template for Paradox Reveal Presentations!
 
 Template license
 ----------------
@@ -9,3 +9,14 @@ and neighboring rights to this template to the public domain worldwide.
 This template is distributed without any warranty. See <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 [g8]: http://www.foundweekends.org/giter8/
+
+## Documentation
+
+### Paradox
+[https://developer.lightbend.com/docs/paradox/current/](https://developer.lightbend.com/docs/paradox/current/)
+
+### Reveal.js
+[https://github.com/hakimel/reveal.js/](https://github.com/hakimel/reveal.js/)
+
+### Reveal Plugin for Paradox
+[https://sfxcode.github.io/sbt-paradox-reveal](https://sfxcode.github.io/sbt-paradox-reveal/)

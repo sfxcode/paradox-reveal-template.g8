@@ -1,0 +1,13 @@
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+.idea*
+*.iml
+*.bak
+project/target
+target
+.DS_Store
+sbt-cache
+sbt-cache/*

@@ -1,0 +1,9 @@
+.idea*
+*.iml
+*.bak
+project/target
+target
+out
+.DS_Store
+sbt-cache
+sbt-cache/*

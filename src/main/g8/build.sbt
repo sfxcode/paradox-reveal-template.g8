@@ -1,6 +1,7 @@
 
 lazy val presentation = (project in file("."))
   .enablePlugins(ParadoxRevealPlugin)
+  .enablePlugins(ParadoxSitePlugin)
   .settings(
     name := "$name$",
     publish / skip := true,

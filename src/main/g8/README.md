@@ -24,3 +24,11 @@ sbt
 ```
  ~ paradoxBrowse
 ```
+
+### Or Run previewAuto from sbt site plugin
+
+[https://github.com/sbt/sbt-site](https://github.com/sbt/sbt-site)
+
+```
+previewAuto
+```

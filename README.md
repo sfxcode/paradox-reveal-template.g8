@@ -12,6 +12,10 @@ This template is distributed without any warranty. See <http://creativecommons.o
 
 ## Documentation
 
+### Usage
+
+g8 https://github.com/sfxcode/paradox-reveal-template.g8
+
 ### Paradox
 [https://developer.lightbend.com/docs/paradox/current/](https://developer.lightbend.com/docs/paradox/current/)
 

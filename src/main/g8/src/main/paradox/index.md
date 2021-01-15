@@ -7,4 +7,5 @@
 @@@
 
 @@include[topics](includes/topics.md)
+@@include[code](includes/code.md)
 

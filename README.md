@@ -16,6 +16,16 @@ This template is distributed without any warranty. See <http://creativecommons.o
 
 g8 https://github.com/sfxcode/paradox-reveal-template.g8
 
+Choose projectName ...
+
+```
+cd projectName
+
+sbt
+
+previewAuto
+```
+
 ### Paradox
 [https://developer.lightbend.com/docs/paradox/current/](https://developer.lightbend.com/docs/paradox/current/)
 
